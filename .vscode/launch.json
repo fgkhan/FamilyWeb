@@ -10,5 +10,11 @@
             "name": "Open AmalWeblinks.html",
             "file": "/Users/farhankhan/Documents/GitHub/FamilyWeb/AmalWeblinks.html"
         }
+         {
+            "type": "msedge",
+            "request": "launch",
+            "name": "Open AmalWeblinks.html",
+            "file": "/Users/farhankhan/Documents/GitHub/FamilyWeb/AmalWeblinks.html"
+        }
     ]
 }
